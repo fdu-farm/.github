@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ We are a group of researchers in Fudan University, working on the intersection of artificial intelligence and medical imaging. We hope this code space can facilitate reproducible research.
+
 <!--
 
 **Here are some ideas to get you started:**
